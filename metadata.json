@@ -1,0 +1,6 @@
+{
+  "name": "To-Do List",
+  "description": "An elegant, fast, and feature-rich React to-do list with editing, deletion, completed states, and local persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
